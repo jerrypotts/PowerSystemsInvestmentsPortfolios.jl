@@ -72,6 +72,7 @@ t_th_exp_ext["operational_periods_2"] = [
     1, 2, 3, # first investment period
     4, 5, 6  # second investment period
 ]
+
 t_th_exp_ext["investment_operational_periods_map"] = Dict(
     1 => 2030,
     2 => 2030,

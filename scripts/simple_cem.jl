@@ -6,7 +6,6 @@ abstract type InvestmentModel end
 abstract type OperationModel end
 abstract type RegionalModel end
 abstract type OptimizationModel end
-#mutable struct ThermalGen <: GenTech end
 
 # Include simplified portfolio
 include("portfolio_test.jl")
